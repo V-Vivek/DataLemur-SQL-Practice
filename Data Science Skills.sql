@@ -1,6 +1,6 @@
 /*markdown
 ### Data Science Skills
-Link: https://datalemur.com/questions/matching-skills
+Question Link: https://datalemur.com/questions/matching-skills
 */
 
 SELECT candidate_id
