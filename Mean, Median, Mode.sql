@@ -25,7 +25,3 @@ GROUP BY mode1.mode;
     - It created a group of the Table column so that it can be serialized in order specified, which is further used by PERCENTILE_CONT()
 
 */
-
-/*markdown
-
-*/
